@@ -24,9 +24,9 @@ google code托管地址：http://code.google.com/p/morn/
 
 9.Morn比flex轻量高效，比flash IDE组件化开发更为方便
 
-![screenshot](https://raw.github.com/yungzhu/morn/master/help/images/main.jpg "screenshot")
+![screenshot](https://raw.github.com/yungzhu/morn/master/doc/help/images/main.jpg "screenshot")
 	
-![screenshot](https://raw.github.com/yungzhu/morn/master/help/images/main1.jpg "screenshot")
+![screenshot](https://raw.github.com/yungzhu/morn/master/doc/help/images/main1.jpg "screenshot")
 
 如果遇到BUG欢迎反馈
 反馈方式: yungzhu@gmail.com 微博:http://weibo.com/newyung QQ群:51451081
@@ -42,10 +42,10 @@ builder-----UI编辑器
 
 MornUILib---UI库源码
 
+ExtendLib---UI扩展库及源码
+
 demo--------示例代码
 
-help--------文档及教程
+doc---------文档及教程
 
-PluginDemo--编辑器插件实例源码
-
-plugins-----分享插件目录
+plugins-----编辑器插件及源码

@@ -17,7 +17,6 @@ package game.view {
 			testTips();
 			testBtn();
 			testList();
-			testPaging();
 			testTab();
 			testLang();
 		}
@@ -89,12 +88,6 @@ package game.view {
 				var label:Label = item.getChildByName("label") as Label;
 				label.text = list.array[index].label + "[" + index + "]";
 			}
-		}
-		
-		/**测试分页条*/
-		private function testPaging():void {
-			//list赋值
-			paging.dataSource = [{label: "1"}, {label: "2"}, {label: "3"}, {label: "4"}, {label: "5"}, {label: "6"}, {label: "7"}, {label: "8"}, {label: "9"}, {label: "10"}, {label: "11"}, {label: "12"}];
 		}
 		
 		/**测试Tab及viewStack*/
